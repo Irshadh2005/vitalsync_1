@@ -62,6 +62,10 @@ flutter:
     - assets/cap.jpg
     - assets/icon.jpg
     - assets/wave.jpg
+    - assets/sleep.jpg
+    - assets/cycle.jpg
+    - assets/call.jpg
+    - assets/music.jpg
 
   #   - images/a_dot_ham.jpeg
 
